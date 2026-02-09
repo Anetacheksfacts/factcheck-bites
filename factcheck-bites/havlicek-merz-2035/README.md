@@ -6,7 +6,7 @@
 
 ## 🟡 Z ČÁSTI PRAVDIVÉ
 
-### 1. Jádro PRAVDA
+### 1. jádro PRAVDA
 Kancléř Merz opravdu prohlásil, odstup Německé spolkové republiky od atomové energie za chybu, a to v kontextu kapacity výroby a cen energií v SRN.
 > „Es war ein schwerer strategischer Fehler, aus der Kernenergie auszusteigen."  
 Friedrich Merz, IHK Halle-Dessau, 14. 1. 2026, 
