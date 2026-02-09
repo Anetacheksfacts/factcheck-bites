@@ -1,10 +1,10 @@
 # Havlíček (ANO): Kancléř Merz jasně prohlásil, že útlum jaderných zdrojů v Německu byla chyba. Jasně prohlásil, že rok 2035 a konec aut na spalovací motory byla chyba.
 
-**Datum:** 3. 2. 2026, 8. schůze PS 
+**Datum:** 3. 2. 2026, 8. schůze PS, uvedeno ve stenoprotokolu
 **Poslanec:** Karel Havlíček (ANO)  
 **Zdroj:** Pr, PS 2025-..., 8. schze, st 20 (3. 2. 2026). (2026b). https://web.archive.org/web/20260209125030/https://www.psp.cz/eknih/2025ps/stenprot/008schuz/s008020.htm 
 
-## 🟡 ČÁSTEČNĚ SPRÁVNÉ
+## 🟡 Z ČÁSTI PRAVDIVÉ
 
 ### 1. Jádro PRAVDA
 Kancléř Merz opravdu prohlásil, odstup Německé spolkové republiky od atomové energie za chybu, a to v kontextu kapacity výroby a cen energií v SRN.
@@ -16,7 +16,7 @@ Industrie- und Handelskammer Halle-Dessau. (2026,19.01.). Gesprächsrunde Neujah
 
 
 ### 2. rok 2035 jako konec spalovacích motorů ZAVÁDĚJÍCÍ  
-**Co tvrdí Havlíček:** Merz „jasně prohlásil, že rok 2035 a konec aut na spalovací motory byla chyba".
+**Co tvrdí Havlíček:** „(Merz) jasně prohlásil, že rok 2035 jako konec aut na spalovací motor byla chyba".
 
 **Realita EU regulace:**  
 
